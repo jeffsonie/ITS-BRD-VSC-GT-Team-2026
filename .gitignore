@@ -1,0 +1,6 @@
+.DS_Store
+**/tmp/
+**/out/
+**/RTE/
+**/*.cbuild-*.yml
+**/clang_tidy_result.txt
