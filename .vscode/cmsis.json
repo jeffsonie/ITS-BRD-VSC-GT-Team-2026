@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "PrimzahlSiebASM/PrimzahlSiebASM": {
+            "activeTargetType": "ITSboard_Assembly"
+        }
+    },
+    "activeSolution": "../PrimzahlSiebASM/PrimzahlSiebASM.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
+}
